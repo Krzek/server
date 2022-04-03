@@ -1,1 +1,0 @@
-/home/christian.cunha/ws/rust/server/target/debug/server: /home/christian.cunha/ws/rust/server/src/http/method.rs /home/christian.cunha/ws/rust/server/src/http/mod.rs /home/christian.cunha/ws/rust/server/src/http/request.rs /home/christian.cunha/ws/rust/server/src/main.rs /home/christian.cunha/ws/rust/server/src/server.rs
